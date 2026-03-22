@@ -1,4 +1,4 @@
-# 🕶️ SHADES: The Weather Sass-Machine
+**###🕶️ SHADES: The Weather App**
 A Python-based weather app that doesn't just give you data—it gives you an attitude.
 
 ### 🧠 How it works:
