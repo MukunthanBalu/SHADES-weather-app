@@ -1,13 +1,17 @@
-SHADES 🕶️
-Status: In Development (Master's Project)
+# 🕶️ SHADES: The Weather Sass-Machine
+A Python-based weather app that doesn't just give you data—it gives you an attitude.
 
-SHADES is a weather application designed to give users a laugh along with the forecast.
+### 🧠 How it works:
+- Fetches live data from **OpenWeather API**.
+- Logic-driven: Only notifies you when the weather actually changes (No spam!).
+- **Global:** Works in Riga, London, or anywhere you can get a signal.
 
-Key Features:
+### 🛠️ Tech Stack:
+- **Python 3**
+- **Requests Library** (API Communication)
+- **OSAScript** (Native Mac Notifications)
 
-Fetches real-time data (Planned: OpenWeatherMap API).
-
-Custom "Snarky Comment" engine based on weather conditions.
-
-Built with Python to practice data processing and API integration.# SHADES-weather-app
-A Python-based weather app that provides witty, snarky commentary based on real-time weather data.
+### 🚩 To Run:
+1. Clone this repo.
+2. Add your API key to a `.env` file.
+3. Run `python shades_logic.py` and prepare to be roasted.
